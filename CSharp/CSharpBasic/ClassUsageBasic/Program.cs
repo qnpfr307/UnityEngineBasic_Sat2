@@ -9,6 +9,22 @@ namespace ClassUsageBasic
             Console.WriteLine(new SwordMan().lv);
             SwordMan swordMan = new SwordMan(); // new 키워드: (참조 형식에 대해서)힙 영역에 동적 할당하는 키워드
             swordMan.SayName(); // 연산자: 멤버 접근 연산자
+
+            int a = 3;
+            Test(a);
+            Console.WriteLine(a);
+
+            Test(swordMan);
+            Console.WriteLine(swordMan.lv);
+        }
+
+        static void Test(SwordMan swordMan)
+        {
+            swordMan.lv = 5;
+        }
+        static void Test(int index)
+        {
+            index = 5;
         }
     }
 

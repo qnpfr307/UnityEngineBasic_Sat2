@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\bin\Debug\net5.0\Example01_ClassObjectinstance.deps.json
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\bin\Debug\net5.0\Example01_ClassObjectinstance.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\bin\Debug\net5.0\Example01_ClassObjectinstance.pdb
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\refint\Example01_ClassObjectinstance.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.pdb
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\ref\Example01_ClassObjectinstance.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\bin\Debug\net5.0\Example01_ClassObjectinstance.exe
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\bin\Debug\net5.0\Example01_ClassObjectinstance.runtimeconfig.json
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\bin\Debug\net5.0\Example01_ClassObjectinstance.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example01_ClassObjectinstance\obj\Debug\net5.0\Example01_ClassObjectinstance.genruntimeconfig.cache

@@ -28,7 +28,7 @@ namespace Variables
         bool isAvailable; // bool: 논리형, true(0이 아닌 수)와 false(0)로 구분함. 1 byte
         char gender; // char: 문자형. 2 byte. ASCII 코드 형식으로 인해 정수형으로 저장됨.
         char[] name1; // 배열: 연속된 자료형 타입
-        String name2; = new String('c', 3); // String 객체 참조형
+        //String name2; = new String('c', 3); // String 객체 참조형
         string name3; // string: 문자열형
 
         // 멤버 변수
