@@ -32,7 +32,7 @@ namespace Operators
             Console.WriteLine(c);
 
             // 나머지
-            // 자료형의 관계 없이정수 나눗셈의 결과를 반환함.(실수는 나머지가 없으므로)
+            // 자료형의 관계없이 정수 나눗셈의 결과를 반환함.(실수는 나머지가 없으므로)
             c = a % b;
             Console.WriteLine(c);
 

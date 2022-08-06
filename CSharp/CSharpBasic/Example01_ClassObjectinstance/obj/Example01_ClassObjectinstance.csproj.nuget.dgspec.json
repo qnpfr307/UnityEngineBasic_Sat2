@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj",
         "projectName": "Example01_ClassObjectinstance",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\Example01_ClassObjectinstance.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\Example01_ClassObjectinstance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

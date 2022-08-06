@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

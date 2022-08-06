@@ -15,8 +15,6 @@ namespace Array2Dimension
 
         static void Main(string[] args)
         {
-            ConsoleKeyInfo cki;
-
             Player player = new Player(3, 0, map);
             DisplayMap();
 
