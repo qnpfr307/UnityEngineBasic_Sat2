@@ -50,7 +50,37 @@
       "ProjectGuid": "d8ce4b5a-a149-4a48-b66a-6527cb9fc045",
       "DisplayName": "FirstProject",
       "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "2c3b0d58-4cc4-4fa2-91e3-cfa473a20e3e": {
+      "ProjectGuid": "2c3b0d58-4cc4-4fa2-91e3-cfa473a20e3e",
+      "DisplayName": "Example06_RollADice",
+      "ColorIndex": 10
+    },
+    "caacab7e-1f92-4b82-a780-cefc9899688f": {
+      "ProjectGuid": "caacab7e-1f92-4b82-a780-cefc9899688f",
+      "DisplayName": "Example05_MyHashtable",
+      "ColorIndex": 11
+    },
+    "ddf0c105-c439-49a0-9937-b3bb45adcfce": {
+      "ProjectGuid": "ddf0c105-c439-49a0-9937-b3bb45adcfce",
+      "DisplayName": "Example03_DynamicArray",
+      "ColorIndex": 12
+    },
+    "8c4fd649-7d5b-4b00-963f-5d8d442728d4": {
+      "ProjectGuid": "8c4fd649-7d5b-4b00-963f-5d8d442728d4",
+      "DisplayName": "Example04_MyLinkedList",
+      "ColorIndex": 13
+    },
+    "aa986499-832d-4525-80b1-278838c15ec8": {
+      "ProjectGuid": "aa986499-832d-4525-80b1-278838c15ec8",
+      "DisplayName": "Collections",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 15
 }
