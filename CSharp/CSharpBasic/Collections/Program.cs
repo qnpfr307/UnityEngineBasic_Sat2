@@ -38,7 +38,7 @@ namespace Collections
             linkedList.AddFirst(2);
 
             Dictionary<string, string> dictionary = new Dictionary<string, string>();
-            dictionary.Add("사과", "쌍떡잎식물 장미목 장미과 낙엽교목 식물인 사과나무의 열매로, 이과에 속하며 지름 5 ~ 10cm 정도의 둥근 모양으로 빛깔");
+            dictionary.Add("사과", "쌍떡잎식물 장미목 장미과 낙엽교목 식물인 사과나무의 열매로, 이과에 속하며 지름 5 ~ 10cm 정도의 둥근 모양으로 빛깔은 보통 붉거나 노랗다.");
             Console.WriteLine(dictionary["사과"]);
 
             // Queue

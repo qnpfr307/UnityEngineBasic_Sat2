@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2_2\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2_2\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2_2\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj",
         "projectName": "Example02_HorseRacing",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2_2\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\HorseRacing\\Example02_HorseRacing.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Sat2_2\\CSharp\\CSharpBasic\\HorseRacing\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\unityenginebasic_sat2_1\\csharp\\UnityEngineBasic_Sat2_2\\UnityEngineBasic_Sat2\\CSharp\\CSharpBasic\\HorseRacing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

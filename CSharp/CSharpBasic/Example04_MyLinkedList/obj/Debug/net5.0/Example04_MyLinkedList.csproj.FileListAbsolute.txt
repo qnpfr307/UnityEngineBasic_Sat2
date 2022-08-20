@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\bin\Debug\net5.0\Example04_MyLinkedList.exe
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\bin\Debug\net5.0\Example04_MyLinkedList.deps.json
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\bin\Debug\net5.0\Example04_MyLinkedList.runtimeconfig.json
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\bin\Debug\net5.0\Example04_MyLinkedList.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\bin\Debug\net5.0\Example04_MyLinkedList.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\bin\Debug\net5.0\Example04_MyLinkedList.pdb
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\refint\Example04_MyLinkedList.dll
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.pdb
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\Example04_MyLinkedList.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\unityenginebasic_sat2_1\csharp\UnityEngineBasic_Sat2_2\UnityEngineBasic_Sat2\CSharp\CSharpBasic\Example04_MyLinkedList\obj\Debug\net5.0\ref\Example04_MyLinkedList.dll

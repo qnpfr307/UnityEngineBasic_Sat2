@@ -6,16 +6,17 @@ using System.Threading.Tasks;
 
 namespace Example03_DynamicArray
 {
-    internal class DynamicArray<T>
+    internal class DynamicArray<T> : IEnumerable<T>
     {
         private const int DEFAULT_SIZE = 1;
         private T[] _data = new T[DEFAULT_SIZE];
 
-        public int Count; // 실제 데이터 개수
+        public T Count; // 실제 데이터 개수
 
         // 프로퍼티(Property)
         // set / get 접근자를 멤버로 가질 수 있는 필드
-        public int Capacity
+
+        public T Capacity
         {
             get 
             { 
@@ -45,7 +46,7 @@ namespace Example03_DynamicArray
         }
 
         // 탐색 알고리즘
-        public int FindIndex(T item)
+        public i FindIndex(T item)
         {
             for(int i = 0; i < Count; i++)
             {
@@ -70,9 +71,59 @@ namespace Example03_DynamicArray
 
             return true;
         }
+
         public bool Remove(T item)
         {
             return RemoveAt(FindIndex(item));
+        }
+        public IEnumerator<T> GetEnumerator()
+        {
+            return new DynamicArrayEnum<T>(_data);
+        }
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class DynamicArrayEnum<T> : IEnumerator<T>
+    {
+        private readonly T[] _data;
+        private int _index = -1;
+        public T Current
+        {
+            get
+            {
+                try
+                {
+                    return _data[_index];
+                }
+                catch
+                {
+                    throw new InvalidOperationException();
+                }
+            }
+        }
+
+        object IEnumerator.Current { get => Current; }
+
+        public DynamicArray(T[] data)
+            => _data = data;
+
+        public void Dispose()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool MoveNext()
+        {
+            _index++;
+            return (_index >= 0) && (_index < _data.Length);
+        }
+
+        public void Reset()
+        {
+            _index = -1;
         }
     }
 }
